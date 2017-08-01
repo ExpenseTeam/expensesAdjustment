@@ -22,10 +22,7 @@
 　・全体デザインとロゴやヘッダー、背景の加工
 
 ●Gitについて(リポジトリの公開設定について確認してから使用開始とする)
-　URL:https://github.com/ExpenseTeam/expensesAdjustment
-　共用アカウント
-　　user：ExpenseTeam
-　　pass：axas2016
+ 詳細情報はSlackにて連携。
 
 ・使い方
 　- Gitを管理できるソフトウェアをダウンロード(TortoiseGit、SourceTree) → おすすめ
